@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "products": [
+    {
+      "name": "Tetris Clone - Starter",
+      "description": "Starter plan for Tetris Clone",
+      "prices": [{"currency": "usd", "unit_amount": 900, "recurring": {"interval": "month"}}]
+    },
+    {
+      "name": "Tetris Clone - Pro",
+      "description": "Pro plan for Tetris Clone",
+      "prices": [{"currency": "usd", "unit_amount": 2900, "recurring": {"interval": "month"}}]
+    }
+  ]
+}
